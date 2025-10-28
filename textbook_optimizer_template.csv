@@ -1,0 +1,2 @@
+course,title,buy_new,buy_used,expected_resale,rent,ebook,oer_available(boolean)
+BIO101,Intro Biology,120,80,30,45,60,0

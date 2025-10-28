@@ -1,0 +1,18 @@
+field_name,description
+series_id,BLS/FRED series code for CPI components or CES wages
+label,Human-readable description
+"1990-12,2019-12,2024-12,2025-08",Index levels (CPI) or dollars per hour (wage) at each anchor month
+pct_change_*,Percent changes between anchors
+state,U.S. state name
+median_gross_rent_2023,"ACS 1-year (B25064) median gross rent for 2023, USD"
+rent_scale_factor_2023_to_2025,CPI Rent (CUUR0000SEHA) ratio from 2023-12 to 2025-08
+median_gross_rent_2025_cpi_adj,"2023 median rent × scale factor, USD"
+min_wage_2025,"State minimum wage effective 2025-01-01, USD/hr"
+wage_note,Notes on regional or employer-size differences
+baseline_2025_usd,Toolkit baseline monthly cost for 2025
+group,"Logical category group (e.g., housing, utilities)"
+weight_in_group,"Share weight if a category is split (e.g., utilities electricity vs gas)"
+scaled_YYYY-MM_usd,Baseline × (index[YYYY-MM]/index[2025-08]) for CPI-mapped categories
+month,ISO month label for budget templates
+tuition_monthly,Monthly tuition allocation (annual/12)
+oer_available(boolean),1 if an open resource exists; 0 otherwise

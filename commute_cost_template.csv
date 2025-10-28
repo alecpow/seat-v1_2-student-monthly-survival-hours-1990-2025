@@ -1,0 +1,2 @@
+mode,one_way_distance_km,days_per_month,consumption_l_per_100km,fuel_price_per_liter,parking_monthly,insurance_monthly,maintenance_monthly,transit_pass_monthly
+car,8,20,7.5,1.0,60,50,30,45

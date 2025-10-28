@@ -1,0 +1,12 @@
+series_id,label,group,weight_in_group,baseline_2025_usd,1990-12,2019-12,2024-12,2025-08,scaled_1990-12_usd,scaled_2019-12_usd,scaled_2024-12_usd,scaled_2025-08_usd
+CUUR0000SEHA,Rent of primary residence,housing,1.0,650.0,141.1,336.789,428.151,436.981,209.88,500.97,636.87,650.0
+CUUR0000SEHF01,Electricity,utilities,0.6,48.0,115.0,209.725,276.7,298.738,18.48,33.7,44.46,48.0
+CUUR0000SEHF02,Utility (piped) gas,utilities,0.4,32.0,121.6,216.482,301.297,259.214,15.01,26.72,37.2,32.0
+CUUR0000SAF11,Food at home,food,1.0,300.0,133.8,241.75,313.321,314.608,127.59,230.52,298.77,300.0
+CUUR0000SETG,Public transportation,transport,1.0,45.0,154.4,250.902,264.306,254.848,27.26,44.3,46.67,45.0
+CUUR0000SEEB,Tuition & other school fees/childcare,tuition,1.0,900.0,183.5,771.519,879.172,896.747,184.17,774.32,882.36,900.0
+CUUR0000SEEA,Educational books & supplies,books,1.0,75.0,145.8,870.348,904.059,901.775,12.13,72.39,75.19,75.0
+CUUR0000SEED,Telephone services,comms,0.5,35.0,,90.287,94.435,93.221,,33.9,35.46,35.0
+CUUR0000SAM2,Medical care services,health,1.0,180.0,169.3,549.077,619.686,637.817,47.78,154.96,174.88,180.0
+CUUR0000SA0,All items CPI-U,misc,1.0,100.0,133.8,256.974,315.605,323.976,41.3,79.32,97.42,100.0
+TOTAL,Sum of categories (available indices),_total_,1.0,2365.0,,,,,683.5999999999999,1951.1000000000001,2329.28,2365.0
